@@ -1,0 +1,41 @@
+h1{
+  text-align: center;
+}
+
+div.card1{
+  border-style: solid;
+  width:300px;
+  background-color: #f4ff29;
+}
+
+img{
+  height: 300px;
+  width: 300px;
+
+}
+
+.card1 p{
+text-align: right;
+}
+
+div.card2{
+  border-style: solid;
+  width:300px;
+  background-color: #453535;
+  float: 
+}
+
+.card2 p{
+text-align: right;
+}
+
+div.card3{
+  border-style: solid;
+  width:300px;
+  background-color: #965824;
+  float: right;
+}
+
+.card3 p{
+text-align: right;
+}
